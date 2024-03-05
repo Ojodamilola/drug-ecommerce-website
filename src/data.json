@@ -1,0 +1,193 @@
+[
+   {
+     "category": "Cardiovascular",
+     "products": [
+       {
+         "name": "Aspirin",
+         "remaining": 100,
+         "price": 10.99,
+         "manufacturer": "Generic Pharma Inc.",
+         "expiration_date": "2024-06-30",
+         "description": "Aspirin is used to reduce fever and relieve mild to moderate pain from conditions such as muscle aches, toothaches, and common cold.",
+         "ingredients": ["Acetylsalicylic Acid"],
+         "dosage": "Take 1 tablet with a full glass of water every 4 to 6 hours as needed.",
+         "image": "aspirin.jpg"
+       },
+       {
+         "name": "Lisinopril",
+         "remaining": 50,
+         "price": 20.49,
+         "manufacturer": "Pharma Solutions Ltd.",
+         "expiration_date": "2023-09-15",
+         "description": "Lisinopril is used to treat high blood pressure. Lowering high blood pressure helps prevent strokes, heart attacks, and kidney problems.",
+         "ingredients": ["Lisinopril"],
+         "dosage": "Take this medication by mouth with or without food as directed by your doctor, usually once or twice daily.",
+         "image": "lisinopril.jpg"
+       },
+       {
+         "name": "Metoprolol",
+         "remaining": 80,
+         "price": 15.99,
+         "manufacturer": "Healthcare Innovations",
+         "expiration_date": "2023-11-28",
+         "description": "Metoprolol is used to treat high blood pressure. It works by blocking the action of certain natural chemicals in your body, such as epinephrine, on the heart and blood vessels.",
+         "ingredients": ["Metoprolol"],
+         "dosage": "Take this medication by mouth, with or right after a meal, as directed by your doctor, usually 1-3 times a day.",
+         "image": "metoprolol.jpg"
+       }
+     ]
+   },
+   {
+     "category": "Respiratory",
+     "products": [
+       {
+         "name": "Ventolin",
+         "remaining": 60,
+         "price": 25.99,
+         "manufacturer": "Big Pharma Co.",
+         "expiration_date": "2023-10-31",
+         "description": "Ventolin is used to treat wheezing and shortness of breath caused by breathing problems such as asthma. It is also used to prevent asthma brought on by exercise.",
+         "ingredients": ["Albuterol"],
+         "dosage": "Follow the directions on your prescription label. Do not use this medicine in larger or smaller amounts or for longer than recommended.",
+         "image": "ventolin.jpg"
+       },
+       {
+         "name": "Advair",
+         "remaining": 40,
+         "price": 45.79,
+         "manufacturer": "MediCorp",
+         "expiration_date": "2023-08-20",
+         "description": "Advair is used to prevent asthma attacks and to treat chronic obstructive pulmonary disease (COPD).",
+         "ingredients": ["Fluticasone", "Salmeterol"],
+         "dosage": "Use Advair exactly as prescribed by your doctor. Follow all directions on your prescription label.",
+         "image": "advair.jpg"
+       },
+       {
+         "name": "Spiriva",
+         "remaining": 70,
+         "price": 39.99,
+         "manufacturer": "Generic Pharma Inc.",
+         "expiration_date": "2024-05-15",
+         "description": "Spiriva is used to treat chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema.",
+         "ingredients": ["Tiotropium"],
+         "dosage": "Use Spiriva exactly as prescribed by your doctor. Follow all directions on your prescription label.",
+         "image": "spiriva.jpg"
+       }
+     ]
+   },
+   {
+     "category": "Pain Relief",
+     "products": [
+       {
+         "name": "Tylenol",
+         "remaining": 90,
+         "price": 8.99,
+         "manufacturer": "Pharma Solutions Ltd.",
+         "expiration_date": "2023-12-15",
+         "description": "Tylenol is used to treat many conditions such as headache, muscle aches, arthritis, backache, toothaches, colds, and fevers.",
+         "ingredients": ["Acetaminophen"],
+         "dosage": "Take this medication by mouth as directed by your doctor. You may take this drug with or without food.",
+         "image": "tylenol.jpg"
+       },
+       {
+         "name": "Ibuprofen",
+         "remaining": 120,
+         "price": 7.49,
+         "manufacturer": "Healthcare Innovations",
+         "expiration_date": "2023-11-30",
+         "description": "Ibuprofen is used to relieve pain from various conditions such as headache, dental pain, menstrual cramps, muscle aches, or arthritis.",
+         "ingredients": ["Ibuprofen"],
+         "dosage": "Take ibuprofen by mouth with or without food, usually every 4 to 6 hours as directed by your doctor.",
+         "image": "ibuprofen.jpg"
+       },
+       {
+         "name": "Naproxen",
+         "remaining": 80,
+         "price": 9.99,
+         "manufacturer": "Big Pharma Co.",
+         "expiration_date": "2023-10-20",
+         "description": "Naproxen is used to relieve pain from various conditions such as headache, muscle aches, tendonitis, dental pain, and menstrual cramps.",
+         "ingredients": ["Naproxen"],
+         "dosage": "Take this medication by mouth as directed by your doctor, usually twice daily with or without food.",
+         "image": "naproxen.jpg"
+       }
+     ]
+   },
+   {
+     "category": "Antibiotics",
+     "products": [
+       {
+         "name": "Amoxicillin",
+         "remaining": 70,
+         "price": 15.99,
+         "manufacturer": "Generic Pharma Inc.",
+         "expiration_date": "2023-11-28",
+         "description": "Amoxicillin is used to treat a wide variety of bacterial infections. It works by stopping the growth of bacteria.",
+         "ingredients": ["Amoxicillin"],
+         "dosage": "Take this medication by mouth with or without food as directed by your doctor, usually every 8 or 12 hours.",
+         "image": "amoxicillin.jpg"
+       },
+       {
+         "name": "Azithromycin",
+         "remaining": 50,
+         "price": 18.79,
+         "manufacturer": "Pharma Solutions Ltd.",
+         "expiration_date": "2023-12-30",
+         "description": "Azithromycin is used to treat a wide variety of bacterial infections. It is a macrolide-type antibiotic.",
+         "ingredients": ["Azithromycin"],
+         "dosage": "Take this medication by mouth as directed by your doctor, usually once daily with or without food.",
+         "image": "azithromycin.jpg"
+       },
+       {
+         "name": "Ciprofloxacin",
+         "remaining": 60,
+         "price": 22.99,
+         "manufacturer": "Healthcare Innovations",
+         "expiration_date": "2024-01-15",
+         "description": "Ciprofloxacin is used to treat a variety of bacterial infections. It belongs to a class of drugs called quinolone antibiotics.",
+         "ingredients": ["Ciprofloxacin"],
+         "dosage": "Take this medication by mouth with or without food as directed by your doctor, usually twice a day.",
+         "image": "ciprofloxacin.jpg"
+       }
+     ]
+   },
+   {
+     "category": "Allergy",
+     "products": [
+       {
+         "name": "Claritin",
+         "remaining": 80,
+         "price": 12.79,
+         "manufacturer": "Generic Pharma Inc.",
+         "expiration_date": "2023-10-15",
+         "description": "Claritin is used to relieve allergy symptoms such as watery eyes, runny nose, itching eyes/nose, sneezing, hives, and itching.",
+         "ingredients": ["Loratadine"],
+         "dosage": "Take this medication by mouth with or without food as directed by your doctor, usually once daily.",
+         "image": "claritin.jpg"
+       },
+       {
+         "name": "Zyrtec",
+         "remaining": 90,
+         "price": 15.99,
+         "manufacturer": "Big Pharma Co.",
+         "expiration_date": "2023-09-20",
+         "description": "Zyrtec is used to relieve allergy symptoms such as watery eyes, runny nose, itching eyes/nose, sneezing, hives, and itching.",
+         "ingredients": ["Cetirizine"],
+         "dosage": "Take this medication by mouth with or without food as directed by your doctor, usually once daily.",
+         "image": "zyrtec.jpg"
+       },
+       {
+         "name": "Allegra",
+         "remaining": 100,
+         "price": 17.49,
+         "manufacturer": "Pharma Solutions Ltd.",
+         "expiration_date": "2023-08-30",
+         "description": "Allegra is used to relieve allergy symptoms such as watery eyes, runny nose, itching eyes/nose, sneezing, hives, and itching.",
+         "ingredients": ["Fexofenadine"],
+         "dosage": "Take this medication by mouth with or without food as directed by your doctor, usually once daily.",
+         "image": "allegra.jpg"
+       }
+     ]
+   }
+ ]
+ 
